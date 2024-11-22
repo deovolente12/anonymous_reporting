@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636399134289",
+    "project_id": "anonymousreport-3dd37",
+    "storage_bucket": "anonymousreport-3dd37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636399134289:android:27dc976025ab68890a3a70",
+        "android_client_info": {
+          "package_name": "com.example.anonymous_reporting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhhVdEmTK7HaSWR_zqiebF1Vh7I2xL7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
